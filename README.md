@@ -113,7 +113,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline using various
 
 - **Load:**
   - Load the transformed data into Elasticsearch.
-  ![Elasticsearch Data Visualization][chart.png]
+  ![Elasticsearch Data Visualization](chart.png)
 
 ## Visualization
 
