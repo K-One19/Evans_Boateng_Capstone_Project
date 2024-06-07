@@ -108,7 +108,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline using various
 
 
 - **Extract:**
-  - Extract data from CSV files located in the `data/` directory using `extract.py`.
+  - Extract data from CSV files located in `orders data analysis`.
 
 - **Transform:**
   - Transform the data using pandas.
