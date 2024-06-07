@@ -90,6 +90,8 @@ This project implements an ETL (Extract, Transform, Load) pipeline using various
     airflow webserver --port 8080
     airflow scheduler
     ```
+    ![Airflow DAG](pipeline.png)
+
 
 2. **Run the ETL pipeline:**
 
