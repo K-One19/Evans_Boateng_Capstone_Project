@@ -104,6 +104,8 @@ This project implements an ETL (Extract, Transform, Load) pipeline using various
     Open Kibana in your web browser to visualize the data.
 
 ## ETL Pipeline
+  ![Data Pipeline](pipelineimage.png)
+
 
 - **Extract:**
   - Extract data from CSV files located in the `data/` directory using `extract.py`.
